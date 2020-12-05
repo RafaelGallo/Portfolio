@@ -19,47 +19,46 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 * [LinkedIn](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 * [Instagram](https://www.instagram.com/gallorafael_/)
 
-## Projects
-Projects done:
+## Projects:
 
-## Análise de dados
-(Em breve)
+## Data analysis
+(Coming soon)
 
-## Engenharia de software e engenharia de requisitos, UML
-[Projeto de engenharia de software - Sistema operacional para aplicações IOT MindSphere - Siemens](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20software)
+## Software engineering and requirements engineering, UML
+[Software engineering project - Operating system for IOT MindSphere applications - Siemens](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20software)
 
-[Projeto de engenharia de requisitos - SUS](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20requisitos)
+[Requirements engineering project - SUS](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20requisitos)
 
 [UML -IoT clould](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/blob/main/UML/Diagrama%20%20.jpg)
 
-## Estatística 
-[Teste de hipotese - Vendas bancárias](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
+## Statistic 
+[Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
 ## Machine learning 
-[Modelo de machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
+[Model in machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
 
-[Modelo de machine learning - Regressão linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
+[Model in machine learning - Regressão linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
 
-[Modelo de machine learning - Regressão linear previsão de imóveis](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
+[Model in machine learning - Property regression linear regression](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
-[Modelo de machine learning - Regressão logística previsão de doenças cardíacas](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
+[Model in machine learning - Logistic regression heart disease prediction](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
 
-## Algoritmo não supervisionado - K-MEANS 
-[K-Means - Ações do Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
+## Unsupervised algorithm - K-MEANS
+[K-Means - Actions of bank Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
 
-## Modelos ARIMA SARIMA
-[Modelo ARIMA previsão de músicas do Spotify](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
+## Models ARIMA SARIMA
+[Spotify's ARIMA music prediction model](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
 
-[Modelo SARIMA previsão de pesca](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Series_temporais_ARIMA_SARIMA.ipynb)
+[Model SARIMA fishing forecast](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Series_temporais_ARIMA_SARIMA.ipynb)
 
 ## Time series
-[Series temporais - Ações da Petrobras](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Time%20series%20-%20Petrobras%202020.ipynb)
+[Time series - Petrobras shares](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Time%20series%20-%20Petrobras%202020.ipynb)
 
-## MLOps deploy modelo regressão linear
+## MLOps deploy linear regression model
 [MLOps regressão linear](https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
 
-## Projeto Sirius - Astronomia machine learning 
-(Em breve)
+## Sirius Project - Astronomy machine learning
+(Coming soon)
 
 ## Deep learning 
-(Em breve)
+(Coming soon)
