@@ -23,4 +23,4 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 Projects done:
 
 ## Machine learning 
-[Modelo de machine learning -](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
+[Modelo de machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
