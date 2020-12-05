@@ -35,7 +35,7 @@ Projects done:
 ## Deep learning (Em breve)
 
 ## Algoritmo não supervisionado - K-MEANS 
-[K-Means cluster ações do Itaú](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Algoritmo%20nao%20suprevisionado/K-Mean%20banco%20ita%C3%BA.ipynb)
+[K-Means - Ações do Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
 
 ## Modelos ARIMA SARIMA
 [Modelo ARIMA previsão de músicas do Spotify](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
