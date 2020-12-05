@@ -7,21 +7,24 @@
 # Rafael Gallo
 <sub>*Data Analyst*</sub>
 
-I am a computer engineering student. My focus is on data science.
+I am a computer engineering student. My focus is on data science, my analytical skills, the ability to work in team environments and attention to detail.
 Knowledge of python, R, relational and non-relational database, data analysis, statistics, business analysis, machine learning, software engineering.
 I currently participate in bootcamp, machine learning competitions in kaggle.
 My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy, planning, organization, flexibility.
 
-
-**Background in:** Python, R, SQL, MongoDB, machine learning, statistic.
+**Background in:** Python, R, C C++, Java, SQL, MongoDB, machine learning, statistic, time series, PLN.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 * [Instagram](https://www.instagram.com/gallorafael_/)
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelhenriquegallo@gmail.com)](mailto:rafaelhenriquegallo@gmail.com)
 
 ## Projects:
 
 ## Data analysis
+(Coming soon)
+
+## Business intelligence - Power bi
 (Coming soon)
 
 ## Software engineering and requirements engineering, UML
@@ -57,8 +60,15 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 ## MLOps deploy linear regression model
 [MLOps regressão linear](https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
 
+## Natural language process project - Machine learning 
+(Coming soon)
+
+## Hermes project medicine - Machine learning and deep learning 
+(Coming soon)
+
 ## Sirius Project - Astronomy machine learning
 (Coming soon)
 
 ## Deep learning 
 (Coming soon)
+
