@@ -13,7 +13,7 @@ I currently participate in bootcamp, machine learning competitions in kaggle.
 My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy, planning, organization, flexibility.
 
 
-**Background in:** Python, R, SQL, MongoDB, Machine Learning, statistic.
+**Background in:** Python, R, SQL, MongoDB, machine learning, statistic.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rafael-gallo-986a73150/)
