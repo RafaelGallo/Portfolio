@@ -32,7 +32,7 @@ Projects done:
 
 [Modelo de machine learning - Regressão linear previsão de imóveis](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
-[Modelo de regressão logística - Previsão de doenças cardíacas](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
+[Modelo de machine learning - Regressão logística previsão de doenças cardíacas](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
 
 ## Deep learning (Em breve)
 
