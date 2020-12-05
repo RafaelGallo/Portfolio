@@ -7,8 +7,10 @@
 # Rafael Gallo
 <sub>*Data Analyst*</sub>
 
-My name is Rafael Gallo, computer engineering student. Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
- Data Scientist in Training, python, machine learning, depp learning.
+I am a computer engineering student. My focus is on data science, my analytical skills, the ability to work in team environments and attention to detail.
+Knowledge of python, R, relational and non-relational database, data analysis, statistics, business analysis, machine learning, software engineering.
+I currently participate in bootcamp, machine learning competitions in kaggle.
+My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy, planning, organization, flexibility.
 
 
 **Background in:** Python, R, SQL, MongoDB, Machine Learning, statistic.
