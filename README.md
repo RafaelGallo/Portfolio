@@ -7,4 +7,4 @@
 </p>
 
 # Rafael Gallo
-<sub>*Data Analyst</sub>
+<sub>*Data Analyst*</sub>
