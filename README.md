@@ -43,7 +43,7 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 
 [Model in machine learning - Regressão linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
 
-[Model in machine learning - Property regression linear regression](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
+[Model in machine learning - Sales regression linear regression](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
 [Model in machine learning - Logistic regression heart disease prediction](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
 
