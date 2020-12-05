@@ -7,7 +7,8 @@
 # Rafael Gallo
 <sub>*Data Analyst*</sub>
 
-
+My name is Rafael Gallo, computer engineering student. Graduating computer engineering at [IMPACTA](https://www.impacta.edu.br/graduacoes/engenharia-da-computacao)<br>
+ Data Scientist in Training, python, machine learning, depp learning.
 
 
 **Background in:** Python, R, SQL, MongoDB, Machine Learning, statistic.
