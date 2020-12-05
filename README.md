@@ -5,3 +5,6 @@
 <p align="center">
   <img src="banner.jpg" >
 </p>
+
+# Rafael Gallo
+<sub>*Data Analyst</sub>
