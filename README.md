@@ -22,5 +22,23 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 ## Projects
 Projects done:
 
+## Estatística 
+[Teste de hipotese - Vendas bancárias](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
+
 ## Machine learning 
 [Modelo de machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
+
+[Modelo de machine learning - Regressão linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
+
+[Modelo de machine learning - Regressão linear previsão de imóveis](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
+
+## Modelos ARIMA SARIMA
+[Modelo ARIMA previsão de músicas do Spotify](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
+
+[Modelo SARIMA previsão de pesca](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Series_temporais_ARIMA_SARIMA.ipynb)
+
+## Time series
+[Series temporais - Ações da Petrobras](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Time%20series%20-%20Petrobras%202020.ipynb)
+
+## MLOps deploy modelo regressão linear
+[MLOps regressão linear(https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
