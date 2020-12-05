@@ -16,5 +16,5 @@
 * [LinkedIn](https://www.linkedin.com/in/rafael-gallo-986a73150/)
 * [Instagram](https://www.instagram.com/gallorafael_/)
 
-## Projetos:
+## Projects:
 Projects done:
