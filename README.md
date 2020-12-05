@@ -41,4 +41,4 @@ Projects done:
 [Series temporais - Ações da Petrobras](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Time%20series%20-%20Petrobras%202020.ipynb)
 
 ## MLOps deploy modelo regressão linear
-[MLOps regressão linear(https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
+[MLOps regressão linear](https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
