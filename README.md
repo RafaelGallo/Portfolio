@@ -7,7 +7,7 @@
 # Rafael Gallo
 <sub>*Data Analyst*</sub>
 
-I am a computer engineering student. My focus is on data science, my analytical skills, the ability to work in team environments and attention to detail.
+I am a computer engineering student. My focus is on data science.
 Knowledge of python, R, relational and non-relational database, data analysis, statistics, business analysis, machine learning, software engineering.
 I currently participate in bootcamp, machine learning competitions in kaggle.
 My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy, planning, organization, flexibility.
