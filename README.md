@@ -8,3 +8,6 @@
 
 # Rafael Gallo
 <sub>*Data Analyst*</sub>
+
+
+**Background in:** Python, R, SQL, MongoDB, Machine Learning, statistic.
