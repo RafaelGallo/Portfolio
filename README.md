@@ -32,6 +32,8 @@ Projects done:
 
 [Modelo de machine learning - Regressão linear previsão de imóveis](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
+## Deep learning (Em breve)
+
 ## Modelos ARIMA SARIMA
 [Modelo ARIMA previsão de músicas do Spotify](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
 
