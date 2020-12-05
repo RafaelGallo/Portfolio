@@ -22,6 +22,16 @@ My soft skills: Creativity, self-knowledge, discipline, self-knowledge, strategy
 ## Projects
 Projects done:
 
+## Análise de dados
+(Em breve)
+
+## Engenharia de software e engenharia de requisitos, UML
+[Projeto de engenharia de software - Sistema operacional para aplicações IOT MindSphere - Siemens](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20software)
+
+[Projeto de engenharia de requisitos - SUS](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20requisitos)
+
+[UML -IoT clould](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/blob/main/UML/Diagrama%20%20.jpg)
+
 ## Estatística 
 [Teste de hipotese - Vendas bancárias](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
@@ -33,8 +43,6 @@ Projects done:
 [Modelo de machine learning - Regressão linear previsão de imóveis](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
 [Modelo de machine learning - Regressão logística previsão de doenças cardíacas](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
-
-## Deep learning (Em breve)
 
 ## Algoritmo não supervisionado - K-MEANS 
 [K-Means - Ações do Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
@@ -49,3 +57,9 @@ Projects done:
 
 ## MLOps deploy modelo regressão linear
 [MLOps regressão linear](https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
+
+## Projeto Sirius - Astronomia machine learning 
+(Em breve)
+
+## Deep learning 
+(Em breve)
