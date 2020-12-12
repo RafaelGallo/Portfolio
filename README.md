@@ -42,7 +42,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Machine learning 
 [Model in machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
 
-[Model in machine learning - Regressão linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
+[Model in machine learning - Regression linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
 
 [Model in machine learning - Sales regression linear regression](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
