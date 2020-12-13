@@ -102,6 +102,3 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 (Coming soon)
 
 
-
-
-Analysis of data - Cassini probe
