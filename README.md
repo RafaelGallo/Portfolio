@@ -89,7 +89,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 
 ## Sirius Project - Astronomy machine learning
 
-[Analysis of data - Cassini](https://github.com/RafaelGallo/Sirius-Project/blob/master/An%C3%A1lise%20de%20dados/Cassini/An%C3%A1lise%20de%20dados%20-%20Sonda%20Cassini%20.ipynb)
+[Analysis of data - Cassini](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Analise%20de%20dados/Analise%20de%20dados%20-%20sonda%20cassini..ipynb)
 
 [Analysis of data - Kepler exoplanet](https://github.com/RafaelGallo/Sirius-Project/blob/master/An%C3%A1lise%20de%20dados/Kepler%20Exoplanet/M.l%20Kepler.ipynb)
 
