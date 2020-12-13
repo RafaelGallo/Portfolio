@@ -45,7 +45,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Models in statistical at the R
 (Coming soon)
 
-## models in statistic at the python
+## Models in statistic at the python
 [Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
 ## Machine learning 
