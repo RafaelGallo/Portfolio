@@ -87,13 +87,21 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## MLOps deploy linear regression model
 [MLOps regressão linear](https://github.com/RafaelGallo/MLOps-deploy-regressao/blob/main/Jupyter%20notebook/Modelo%20previs%C3%A3o%20de%20im%C3%B3veis.ipynb)
 
+## Sirius Project - Astronomy machine learning
+
+[Analysis of data - Cassini](https://github.com/RafaelGallo/Sirius-Project/blob/master/An%C3%A1lise%20de%20dados/Cassini/An%C3%A1lise%20de%20dados%20-%20Sonda%20Cassini%20.ipynb)
+
+[Analysis of data - Kepler exoplanet](https://github.com/RafaelGallo/Sirius-Project/blob/master/An%C3%A1lise%20de%20dados/Kepler%20Exoplanet/M.l%20Kepler.ipynb)
+
+[K-Means - Kepler exoplanet](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Algoritmo%20nao%20suprevisionado/Cluster%20planetas%20de%20kepler%20-%20K-Means.ipynb)
+
 ## Natural language process project - Machine learning 
 (Coming soon)
 
 ## Hermes project medicine - Machine learning and deep learning 
 (Coming soon)
 
-## Sirius Project - Astronomy machine learning
-(Coming soon)
 
 
+
+Analysis of data - Cassini probe
