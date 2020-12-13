@@ -40,6 +40,8 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 [Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
 ## Machine learning 
+[Model in machine learning - Naive bayes = Classification spam not spam](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20SPAM%20SPAM.ipynb)
+
 [Model in machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
 
 [Model in machine learning - Regression linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
@@ -47,6 +49,8 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 [Model in machine learning - Sales regression linear regression](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20vendas%20apt.ipynb)
 
 [Model in machine learning - Logistic regression heart disease prediction](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20regress%C3%A3o%20logistica.ipynb)
+
+[Model in machine learning - SVM sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/SVM_Vendas_Apt_EUA.ipynb)
 
 ## Unsupervised algorithm - K-MEANS
 [K-Means - Actions of bank Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
