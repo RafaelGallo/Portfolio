@@ -58,7 +58,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 
 [Model in machine learning - SVM sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/SVM_Vendas_Apt_EUA.ipynb)
 
-## Unsupervised algorithm - K-MEANS
+## Unsupervised algorithm - K-Means
 [K-Means - Actions of bank Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
 
 [K-Means - Kepler](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Algoritmo%20nao%20suprevisionado/K-Means%20-%20Kepler.ipynb)
