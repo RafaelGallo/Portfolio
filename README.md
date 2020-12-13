@@ -24,10 +24,16 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Projects:
 
 ## Data analysis
-(Coming soon)
+[Analysis of data - Cassini probe](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Analise%20de%20dados/Analise%20de%20dados%20-%20sonda%20cassini..ipynb)
+
+[Analysis of data - Polluting stations](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Analise%20de%20dados/Analise%20de%20dados%20das%20esta%C3%A7%C3%B5es%20poluente%20-%20SP.ipynb)
+
+[Analysis of data - Stock exchange shares Petrobras](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Analise%20de%20dados/An%C3%A1lise%20explorat%C3%B3ria%20de%20dados%20-%20A%C3%A7%C3%B5es%20da%20Petrobr%C3%A1s.ipynb)
 
 ## Business intelligence - Power bi
-(Coming soon)
+[Project of business intelligence and ETL](https://github.com/RafaelGallo/B.i---ETL---data-warehouse)
+
+[Dashboard - Power bi](https://github.com/RafaelGallo/Dashboards-bi/tree/master/Dashboard)
 
 ## Software engineering and requirements engineering, UML
 [Software engineering project - Operating system for IOT MindSphere applications - Siemens](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20software)
