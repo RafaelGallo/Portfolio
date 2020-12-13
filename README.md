@@ -46,7 +46,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 [Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
 ## Machine learning 
-[Model in machine learning - Naive bayes = Classification spam not spam](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20SPAM%20SPAM.ipynb)
+[Model in machine learning - Naive bayes classification spam not spam](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20SPAM%20SPAM.ipynb)
 
 [Model in machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
 
