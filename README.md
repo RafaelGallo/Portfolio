@@ -34,7 +34,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 
 [Requirements engineering project - SUS](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/tree/main/Engenharia%20de%20requisitos)
 
-[UML -IoT clould](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/blob/main/UML/Diagrama%20%20.jpg)
+[UML - IoT clould](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/blob/main/UML/Diagrama%20%20.jpg)
 
 ## Statistic 
 [Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
