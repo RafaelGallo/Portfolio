@@ -61,6 +61,17 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Unsupervised algorithm - K-MEANS
 [K-Means - Actions of bank Itaú](https://github.com/RafaelGallo/Algoritmo-nao-supervisionado/blob/master/K-Means/K-Mean%20banco%20ita%C3%BA.ipynb)
 
+## Deep learning 
+
+[Data augmentation - beaches of São Paulo](https://github.com/RafaelGallo/Deep-learning---projetos/blob/master/Data%20Augmentation/Data%20augmentation%20-%20Tensorflow.ipynb)
+
+[Activation function - Neural networks](https://github.com/RafaelGallo/Deep-learning---projetos/blob/master/Fun%C3%A7%C3%B5es%20de%20ativa%C3%A7%C3%B5es%20para%20redes%20neurais/funcao%20de%20ativacao.ipynb)
+
+[ANN Perceptron - Health](https://github.com/RafaelGallo/Deep-learning---projetos/blob/master/ANN%20Perceptron/ANN%20Perceptron%20-%20Sa%C3%BAde.ipynb)
+
+[ANN Perceptron - Weather forecast](https://github.com/RafaelGallo/Deep-learning---projetos/blob/master/ANN%20Perceptron/ANN%20Perceptron%20-%20Tempo.ipynb)
+
+
 ## Models ARIMA SARIMA
 [Spotify's ARIMA music prediction model](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Series%20temporais/Modelo%20ARIMA%20Spotify.ipynb)
 
@@ -81,6 +92,4 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Sirius Project - Astronomy machine learning
 (Coming soon)
 
-## Deep learning 
-(Coming soon)
 
