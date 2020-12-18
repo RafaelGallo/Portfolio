@@ -55,6 +55,8 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Machine learning 
 [Model in machine learning - Naive bayes classification spam not spam](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20SPAM%20SPAM.ipynb)
 
+[Model in machine learning - K-NN Classification](https://github.com/RafaelGallo/Project-Higia---health-M.L/blob/master/Modelo%20de%20machine%20learning/Modelo%20machine%20learning%20previs%C3%A3o%20de%20c%C3%A2ncer.ipynb)
+
 [Model in machine learning - Random florest](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20machine%20learning%20-%20Random%20Forest%20PETR4.ipynb/)
 
 [Model in machine learning - Regression linear](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Regress%C3%A3o%20linear%20-%20Petrobras.ipynb)
@@ -106,6 +108,14 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 [Analyze exploratory - Diabetes exams](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/An%C3%A1lise%20exploratoria/An%C3%A1lise%20explorat%C3%B3ria%20-%20diabetes%20.ipynb)
 
 [Analyze exploratory - Cancer Screenings](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/An%C3%A1lise%20exploratoria/An%C3%A1lise%20explorat%C3%B3ria%20-%20exame%20c%C3%A2ncer%20.ipynb)
+
+[Analyze exploratory - Breast cancer](https://github.com/RafaelGallo/Project-Higia---health-M.L/blob/master/An%C3%A1lise%20exploratoria/An%C3%A1lise%20explorat%C3%B3ria%20c%C3%A2ncer%20mama.ipynb)
+
+[Analyze exploratory - Heart diseases](https://github.com/RafaelGallo/Project-Higia---health-M.L/blob/master/An%C3%A1lise%20exploratoria/An%C3%A1lise%20explorat%C3%B3ria%20%20-%20Doen%C3%A7as%20card%C3%ADacas.ipynb)
+
+[Machine learning - Breast cancer](https://github.com/RafaelGallo/Project-Higia---health-M.L/blob/master/Modelo%20de%20machine%20learning/Modelo%20machine%20learning%20previs%C3%A3o%20de%20c%C3%A2ncer.ipynb)
+
+[Machine learning - Heart diseases](https://github.com/RafaelGallo/Project-Higia---health-M.L/blob/master/Modelo%20de%20machine%20learning/Modelo%20machine%20learning%20-%20doen%C3%A7as%20card%C3%ADacas.ipynb)
 
 [Machine learning - Cancer diagnosis](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/Modelo%20de%20machine%20learning/Machine%20learning%20-%20diagnostico%20de%20c%C3%A2ncer%20.ipynb)
 
