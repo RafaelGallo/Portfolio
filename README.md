@@ -42,6 +42,10 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 
 [UML - IoT clould](https://github.com/RafaelGallo/Engenharia-de-Requisitos-/blob/main/UML/Diagrama%20%20.jpg)
 
+## Competition at the kaggle
+
+[Competition](https://github.com/RafaelGallo/Kaggle-machine-learning)
+
 ## Models in statistical at the R
 (Coming soon)
 
