@@ -5,7 +5,7 @@
 </p>
 
 # Rafael Gallo
-<sub>*Data Analyst*</sub>
+<sub>*Data Science Student*</sub>
 
 I am a computer engineering student. My focus is on data science, I have analytical skills, ability to work in team environments and attention to detail.
 Knowledge of python, R, relational and non-relational database, data analysis, statistics, business analysis, machine learning and software engineering.
