@@ -119,7 +119,7 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 
 [Machine learning - Cancer diagnosis](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/Modelo%20de%20machine%20learning/Machine%20learning%20-%20diagnostico%20de%20c%C3%A2ncer%20.ipynb)
 
-[Model logistic regression - Diabetes](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/Modelo%20de%20machine%20learning/Regress%C3%A3o%20log%C3%ADstica%20-%20previs%C3%A3o%20de%20diabetes.ipynb)
+[Machine learning logistic regression - Diabetes](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/Modelo%20de%20machine%20learning/Regress%C3%A3o%20log%C3%ADstica%20-%20previs%C3%A3o%20de%20diabetes.ipynb)
 
 ## Natural language process project - Machine learning 
 (Coming soon)
