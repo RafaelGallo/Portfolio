@@ -52,6 +52,9 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 ## Models in statistic at the python
 [Hypothesis testing - Bank sales](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Estatistica/Teste%20de%20hip%C3%B3tese%20.ipynb)
 
+#Machine learning - Covid19
+(Coming soon)
+
 ## Machine learning 
 [Model in machine learning - Naive bayes classification spam not spam](https://github.com/RafaelGallo/Modelos-machine-learning/blob/master/Modelos%20de%20machine%20learning/Modelo%20de%20SPAM%20SPAM.ipynb)
 
@@ -122,8 +125,4 @@ I am currently participating in bootcamp, machine learning competitions in kaggl
 [Machine learning logistic regression - Diabetes](https://github.com/RafaelGallo/Project-hermes---health-M.L/blob/master/Modelo%20de%20machine%20learning/Regress%C3%A3o%20log%C3%ADstica%20-%20previs%C3%A3o%20de%20diabetes.ipynb)
 
 ## Natural language process project - Machine learning 
-(Coming soon)
-
-
-
-
+(Coming soon)     
